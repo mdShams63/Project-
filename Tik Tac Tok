@@ -53,7 +53,7 @@ if (player == 1) {
 
 void printBoard()
 {
-
+    system("cls");
     printf("\n\n");
     printf("\t\t          TIC TAC TOE \t\t \n\n");
     printf("\t\t Dear Player, please select a number \n");
